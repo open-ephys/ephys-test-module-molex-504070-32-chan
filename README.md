@@ -1,4 +1,4 @@
-# Test Module for Molex DF40-based Headstages
+# Test Module for Molex 504070-based Headstages
 
 This test module works with the Open Ephys
 [automated ephys tester](https://github.com/open-ephys/ephys-test-board). 
